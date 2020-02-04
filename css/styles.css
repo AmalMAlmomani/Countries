@@ -1,0 +1,52 @@
+
+h1 {
+    /*background-color: #FAEBD7;*/
+    margin: 20px 500px 20px 500px;
+    color:#21852C ;
+    text-align: center;
+}
+body{
+    background-color: #EEEAE4;
+}
+nav ul li{
+    float: left ;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid gray;
+    margin: 15px;
+
+}
+
+p{
+ border: 2px solid black;
+ outline: #4CAF50 solid 5px;
+ margin: auto;  
+ padding: 15px;
+ text-align: center;
+font-weight: bold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+a{
+    text-decoration: none ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-style: double;
+  border-radius: 8px;
+  border-radius: 4px;
+  padding: 5px;
+ 
+ 
+
+}
+footer{
+    border-style: double;
+    border-color: wheat;
+
+}
