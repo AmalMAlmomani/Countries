@@ -9,9 +9,9 @@ var showOrder = function(){
     for (var i = 0 ; i < numberOfImages ; i++){
         console.log("index is " + i);
         if ( userOrder === "hotel"){
-            orderImage = orderImage + '<img src="images/hotel.png">';
+            orderImage = orderImage + '<img src="img/hotel.png">';
         }else if ( userOrder === "house"){
-            orderImage = orderImage + '<img src="images/house.png">';
+            orderImage = orderImage + '<img src="img/house.jpg">';
         }console.log(orderImage);
        
      }return orderImage;
